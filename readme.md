@@ -2,8 +2,13 @@
 * Name: Kaixuan Liu
 * Contact: kaixuan.liu@emory.edu
 * Question number: HW1
-# Key insight:
-## Part B & C: 
+
+
+# Part A: 
+
+* All differential equations were solved using scipy.integrate.solve_ivp
+
+# Part B & C: 
 * Dynamics of the SIR Model: 
 Within 150 days, the SIR model shows a outbreak of the epidemic. The susceptible individuals (S) were exhausted, the infected individuals (I) reached their peak, and the recovered individuals (R) increased and stabilized. 
 * Epidemic peak: 
